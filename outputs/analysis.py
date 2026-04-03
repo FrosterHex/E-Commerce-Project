@@ -4,7 +4,7 @@ import mysql.connector
 # === DB CONNECTION ===
 conn = mysql.connector.connect(
     host="localhost",
-    port=3306,
+    port=3308,
     user="root",
     password="root123",
     database="ecommerce"
